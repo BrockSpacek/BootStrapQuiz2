@@ -1,0 +1,39 @@
+.nav-border{
+    border-bottom: o.3rem;
+    color: black;
+}
+
+.borderless{
+    border-radius: 0;
+}
+
+.text-blue{
+    color: blue;
+}
+.bg-dark-blue{
+    background-color: darkblue;
+    font-size: 22px;
+    text-align: center;
+}
+
+.bg-maroon{
+    background-color: maroon;
+    font-size: 22px;
+    text-align: center;
+}
+
+.bg-light-green{
+    background-color: lightgreen;
+    font-size: 22px;
+    text-align: center;
+}
+
+.bg-cyan{
+    background-color: cyan;
+    font-size: 22px;
+    text-align: center;
+}
+
+.bg-light-red{
+    background-color: lightcoral;
+}
